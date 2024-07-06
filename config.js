@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝐼𝑇𝐴𝑇𝐶𝐻𝐼 𝐵𝑂𝑇』*"
+global.botnumber = "*『💀┇𝐼𝑇𝐴𝑇𝐶𝐻𝐼 𝐵𝑂𝑇』*"
 global.confirmCode = ""
 
 global.owner = [['212669121595', '𝐈𝐓𝑨𝐓𝐂𝐇𝐈 ❦︎', true],
