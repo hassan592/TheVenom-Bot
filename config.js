@@ -10,11 +10,11 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['212669121595', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['212669121595'];
+global.prems = ['212669121595'];
 
 global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
 global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
